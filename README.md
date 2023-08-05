@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center">
-  <img alt="Screenshot" src=".github/screenshot.png">
+  ![image](https://github.com/Mateus8741/ignite-rn-coffee-delivery-mobile/assets/62652109/f733bf5a-c703-4dd8-a5b7-9e6f6dd83767)
 </p>
 
 ## 🚀 Technologies
